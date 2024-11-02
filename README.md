@@ -37,7 +37,7 @@ Este é um aplicativo móvel React Native que permite aos usuários realizar log
 
 3. **Inicie o aplicativo com Expo**:
    ```bash
-   expo start
+   npm start
    ```
 
 4. **Configuração do Servidor**:
